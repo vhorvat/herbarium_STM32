@@ -1,0 +1,6 @@
+data/lps22hh_reg.h.i
+data/LPS22HHSensor.cpp.i
+data/lps22hh_reg.c.i
+data/X_NUCLEO_COMMON.lib.i
+data/LPS22HHSensor.h.i
+data/ST_INTERFACES.lib.i

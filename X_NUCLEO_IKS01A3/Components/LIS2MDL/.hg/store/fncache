@@ -1,0 +1,6 @@
+data/LIS2MDLSensor.cpp.i
+data/ST_INTERFACES.lib.i
+data/LIS2MDLSensor.h.i
+data/lis2mdl_reg.c.i
+data/X_NUCLEO_COMMON.lib.i
+data/lis2mdl_reg.h.i

@@ -1,0 +1,3 @@
+BUILD/NUCLEO_WB55RG/ARMC6/mbed-os/platform/TARGET_CORTEX_M/TOOLCHAIN_ARM/except.o: \
+  mbed-os/platform/TARGET_CORTEX_M/TOOLCHAIN_ARM/except.S \
+  BUILD/NUCLEO_WB55RG/ARMC6/mbed_config.h

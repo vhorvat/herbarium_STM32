@@ -1,0 +1,9 @@
+data/Components/LIS2MDL.lib.i
+data/Components/STTS751.lib.i
+data/Components/LSM6DSO.lib.i
+data/XNucleoIKS01A3.h.i
+data/x_nucleo_iks01a3_targets.h.i
+data/XNucleoIKS01A3.cpp.i
+data/Components/LIS2DW12.lib.i
+data/Components/HTS221.lib.i
+data/Components/LPS22HH.lib.i

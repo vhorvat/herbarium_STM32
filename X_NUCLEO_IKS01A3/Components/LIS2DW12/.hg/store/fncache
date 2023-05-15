@@ -1,0 +1,6 @@
+data/X_NUCLEO_COMMON.lib.i
+data/lis2dw12_reg.h.i
+data/lis2dw12_reg.c.i
+data/LIS2DW12Sensor.h.i
+data/ST_INTERFACES.lib.i
+data/LIS2DW12Sensor.cpp.i

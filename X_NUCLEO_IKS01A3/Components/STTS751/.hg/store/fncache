@@ -1,0 +1,6 @@
+data/ST_INTERFACES.lib.i
+data/X_NUCLEO_COMMON.lib.i
+data/stts751_reg.h.i
+data/stts751_reg.c.i
+data/STTS751Sensor.cpp.i
+data/STTS751Sensor.h.i
